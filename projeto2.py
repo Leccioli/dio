@@ -1,4 +1,7 @@
 #PROJETO DIO -> Desafio Otimizando Sistema Bancário
+#cópia do projeto feito pelo professor em video de resolução do desafio -> CREDITOS AO GUILHERME CARVALHO
+
+
 import textwrap
 
 def menu():
